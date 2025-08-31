@@ -17,8 +17,6 @@ python3 -m venv ~/OctoPrint
 
 ~/OctoPrint/bin/pip install https://github.com/paukstelis/LE_Scanning/archive/refs/heads/main.zip
 
-~/OctoPrint/bin/pip install https://github.com/paukstelis/OctoPrint-Simplethreads/archive/refs/heads/main.zip
-
 ~/OctoPrint/bin/pip install https://github.com/paukstelis/LE-RoseEngine/archive/refs/heads/main.zip
 
 
