@@ -41,6 +41,7 @@ sed "s/OCTOPRINTUSER/$OCTOPRINTUSER/g" <<EOF > output.plist
     <array>
             <string>/Users/OCTOPRINTUSER/OctoPrint/bin/octoprint</string>
             <string>serve</string>
+            <string>--port=5001</string>
     </array>
     <key>KeepAlive</key>
     <true/>
