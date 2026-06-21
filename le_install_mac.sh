@@ -4,7 +4,6 @@ xcode-select --install
 
 
 python3 -m venv ~/OctoPrint
-~/OctoPrint/bin/pip install --force-reinstall pip==25.2
 ~/OctoPrint/bin/pip install OctoPrint
 ~/OctoPrint/bin/pip install https://github.com/paukstelis/OctoPrint-LatheEngraver/archive/refs/heads/main.zip
 
